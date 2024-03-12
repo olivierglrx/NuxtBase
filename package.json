@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@nuxt/ui": "^2.14.2",
+    "flowbite": "^2.3.0",
     "nuxt": "^3.10.3",
     "primevue": "^3.49.1",
     "vue": "^3.4.21",
